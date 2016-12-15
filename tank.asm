@@ -910,4 +910,4 @@ Begin:	addi $gp, $gp, 35912
 			  li $a2, 0	# zera os registradores usados (só pra garantir msm risos)
 			  li $v1, 0x64	# flag q sinaliza pra qual lado o tanque virou
 			  jr $ra
-		
+# fim
