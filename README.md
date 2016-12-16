@@ -1,5 +1,5 @@
 # Adicionado 
-- detectação de colisão(apenas para esquerda e para baixo)
+- detectação de colisão(apenas para direita e para baixo)
 - rotina 'Begin' que cria o tanque na base
 
 # Deu Ruim
