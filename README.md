@@ -7,11 +7,12 @@ e MultiPlayer.
 - Display Width in Pixels: 512;
 - Display Height in Pixels: 512;
 - Base address for display: 0x10008000 ($gp);
-- Keyboard and Display MMIO Simulator;
+- Keyboard and Display MMIO Simulator(usado apenas no modo singleplayer);
 - Tanque 1: A, W, S, D, B;
 - Tanque 2: J, I, K, L, M;
 - Pause: P;
 - End: E;
+- (*no menu, para escolher o modo singleplayer, digitar a tecla 1*);
 # 3. Especificações dos Métodos de Criação
 ## 3.1. Menus, Cenário e demais Objetos
 São plotados no bitmap ao decorrer do jogo através de store words
